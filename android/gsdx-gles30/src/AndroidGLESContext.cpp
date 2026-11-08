@@ -1,4 +1,5 @@
 #include "gsdx/AndroidGLESContext.h"
+#include <EGL/eglext.h>
 #include <GLES3/gl3.h>
 #include <sstream>
 namespace gsdx::android {
